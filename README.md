@@ -7,4 +7,4 @@ This is an example site for ...
 
 # Contact
 
-email: jon@
+email: jon@gmail.com
